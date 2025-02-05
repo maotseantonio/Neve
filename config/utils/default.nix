@@ -28,6 +28,7 @@
     ./wakatime.nix
     ./which-key.nix
     ./wilder.nix
+    ./yazi.nix
   ];
 
   options = {
